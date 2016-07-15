@@ -1,5 +1,5 @@
 # Open Graph Protocol Parser
-このモジュールは，[ukyoda氏のogp-parser](https://github.com/ukyoda/ogpParser link title "ogp-parser")のマイナーフィックスです。
+このモジュールは，[ukyoda氏のogp-parser](https://github.com/ukyoda/ogpParser)のマイナーフィックスです。
 
 指定されたurlがutf-8,ascii以外の文字コードを指定している場合、自動変換してからogpを取得します。
 
